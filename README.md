@@ -1,0 +1,2 @@
+# SavedOrRestoreInstanceState
+保存和恢复Activity状态或数据，同时使用android:configChange
